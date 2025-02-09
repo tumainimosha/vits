@@ -1,0 +1,226 @@
+Audio_by_sentence/Hadithi_5/Hadithi_5.1.wav|Kulikuwa na kijiji kimoja kilichoitwa Njawa.
+Audio_by_sentence/Hadithi_3/Hadithi_3.7.wav|Katika ufalme wake, kulikuwa na wanyama wa ajabu kama mbwa mbweha na ndovu wakubwa waliokuwa marafiki wa wanadamu.
+Audio_by_sentence/Hadithi_4/Hadithi_4.17.wav|Alimwambia Chwesa, kijana, umeonyesha ujasiri mkubwa kuingia ndani ya msitu huu.
+Audio_by_sentence/Hadithi_8/Hadithi_8.5.wav|Walipoanza safari yao, walipita kwenye shamba la Mama Alinjwi, ambaye alikuwa akiwapulizia shwi miti yake ya ndwele ili iweze kumea vizuri.
+Audio_by_sentence/Hadithi_10/Hadithi_10.5.wav|Walipoanza safari yao, walipita kwenye shamba la Mzee Kishenjwe, ambaye aliwakaribisha na kuwapa maji ya kunywa kutoka bwawa la Ndwele.
+Audio_by_sentence/Hadithi_8/Hadithi_8.18.wav|Alikumbatia mti huo na kusema, Ninaamini katika upendo na mshikamano.
+Audio_by_sentence/Hadithi_8/Hadithi_8.8.wav|Juma na marafiki zake walijua kuwa wanahitaji ujasiri mkuu kuingia msituni.
+Audio_by_sentence/Hadithi_9/Hadithi_9.27.wav|Taswira zake nzuri zilivutia watu wengi na mji wa Kigangwa ulipata umaarufu mkubwa.
+Audio_by_sentence/Hadithi_1/Hadithi 1.15.wav|Mbwiga alitengeneza mtumbwi kwa kutumia mbao na kuwasaidia kuvuka mto huo bila kujeruhiwa.
+Audio_by_sentence/Hadithi_1/Hadithi 1.22.wav|Ghafla, mti ulianza kung'aa na kutoa hazina iliyokuwa imefichwa.
+Audio_by_sentence/Hadithi_4/Hadithi_4.8.wav|Wakiwa njiani, walikumbana na changamoto nyingi kama vile nyoka wakali na majani yenye miiba.
+Audio_by_sentence/Hadithi_10/Hadithi_10.13.wav|Njiani, walikutana na Babu Chweka, mzee mwenye hekima aliyekuwa akiishi katika kijiji kidogo cha Mtwera.
+Audio_by_sentence/Hadithi_1/Hadithi 1.12.wav|Njiani, walikutana na Babu Chweka, mzee mwenye hekima aliyekuwa akiishi katika kijiji kidogo cha Mtwera.
+Audio_by_sentence/Hadithi_8/Hadithi_8.25.wav|Waliishi kwa amani na furaha, wakiendelea kuheshimu na kuhifadhi siri za msitu Ngwala.
+Audio_by_sentence/Hadithi_3/Hadithi_3.1.wav|Kulikuwa na kijiji kimoja kilichoitwa Mbwema.
+Audio_by_sentence/Hadithi_6/Hadithi_6.4.wav|Siku moja, wakati Twaibu alipokuwa akichora karibu na bwawa, aliona kivuli kikubwa kinachotokea kwenye msitu wa Ngwama.
+Audio_by_sentence/Hadithi_10/Hadithi_10.14.wav|Babu Chweka aliwaambia, Ili kufika kwa Mheshimiwa Zwima, lazima mpitie majaribu matatu: jaribu la hekima, jaribu la ujasiri, na jaribu la upendo.
+Audio_by_sentence/Hadithi_5/Hadithi_5.17.wav|Shweta aliona mashua ndogo iliyotelekezwa na akaifikiria kwa makini.
+Audio_by_sentence/Hadithi_2/Hadithi_2.16.wav|Mwaya alitengeneza mtumbwi kwa kutumia mbao na kuwasaidia kuvuka mto huo bila kujeruhiwa.
+Audio_by_sentence/Hadithi_5/Hadithi_5.20.wav|Mlima huu ulikuwa na maporomoko ya maji na njia nyembamba zilizozunguka milima.
+Audio_by_sentence/Hadithi_5/Hadithi_5.37.wav|Hadithi yao ilibaki kuwa kumbukumbu ya kudumu na mafunzo kwa vizazi vijavyo.
+Audio_by_sentence/Hadithi_9/Hadithi_9.8.wav|Njeri alicheka na kusema, Msitu huu ni hatari, lakini tutafanikiwa.
+Audio_by_sentence/Hadithi_6/Hadithi_6.40.wav|Kijiji cha Njwala kilipata umaarufu na Twaibu aliheshimiwa kama mchoraji mkubwa.
+Audio_by_sentence/Hadithi_8/Hadithi_8.20.wav|Ndani ya hazina hiyo, walikuta dhahabu nyingi na vitabu vya hekima.
+Audio_by_sentence/Hadithi_5/Hadithi_5.29.wav|Aliomba dua ya upendo na kisha akakumbatia mti huo kwa upendo mkubwa.
+Audio_by_sentence/Hadithi_5/Hadithi_5.33.wav|Shweta na Chwema walifurahi sana na walirudi kijijini Njawa wakiwa na furaha tele.
+Audio_by_sentence/Hadithi_4/Hadithi_4.16.wav|Mzee Njwi alikuwa ni mlinzi wa siri za msitu wa Ngwambo.
+Audio_by_sentence/Hadithi_6/Hadithi_6.6.wav|Lakini kwa shauku yake ya kugundua vitu vipya, Twaibu aliamua kuchunguza.
+Audio_by_sentence/Hadithi_9/Hadithi_9.23.wav|Ghafla, mti ulianza kung'aa na kutoa hazina iliyokuwa imefichwa.
+Audio_by_sentence/Hadithi_10/Hadithi_10.1.wav|Katika mji wa Mji wa Mtwera, kulikuwa na kijana mjasiri aliyeitwa Chacha.
+Audio_by_sentence/Hadithi_5/Hadithi_5.9.wav|Chwema alitabasamu na kusema, Habari Shweta.
+Audio_by_sentence/Hadithi_1/Hadithi 1.8.wav|Mbwinwa alicheka na kusema, Msitu huu ni hatari, lakini tutafanikiwa.
+Audio_by_sentence/Hadithi_1/Hadithi 1.4.wav|Aliambatana na mbwa wake wa mwituni, Mbweha, na rafiki yake wa karibu, Mbwina
+Audio_by_sentence/Hadithi_4/Hadithi_4.3.wav|Watu wa kijiji cha Ngalawa waliamini kwamba msitu huu ulikuwa na siri nyingi zilizofichwa.
+Audio_by_sentence/Hadithi_9/Hadithi_9.15.wav|Jaribu la kwanza lilikuwa ni kuvuka mto Ngweo, ambao ulikuwa na mamba wengi.
+Audio_by_sentence/Hadithi_5/Hadithi_5.5.wav|Siku moja, walikuwa njiani kuelekea mtoni, walikutana na kijana mmoja aliyeitwa Chwema.
+Audio_by_sentence/Hadithi_4/Hadithi_4.28.wav|Walipofika pale, alikuta kijito kimejaa maji yenye kiasi.
+Audio_by_sentence/Hadithi_1/Hadithi 1.7.wav|Waliendelea na safari yao hadi walipofika kwenye msitu wa Ngwala, ambao ulijulikana kwa kuwa na wanyama wakali kama mbweha na mbwiga.
+Audio_by_sentence/Hadithi_6/Hadithi_6.5.wav|Alijua kuwa msitu huo ulikuwa na siri nyingi na wengi walihofia kuingia humo.
+Audio_by_sentence/Hadithi_4/Hadithi_4.33.wav|Walipoanza kuchoka, Chwesa aliimba nyimbo za shujaa zilizompa nguvu na mwishowe walifanikiwa kufika juu ya mteremko.
+Audio_by_sentence/Hadithi_3/Hadithi_3.6.wav|Mfalme huyu alikuwa na ufalme mkubwa ulioenea kutoka kaskazini hadi kusini.
+Audio_by_sentence/Hadithi_8/Hadithi_8.16.wav|Hapo, walihitaji kuonyesha upendo wa kweli.
+Audio_by_sentence/Hadithi_8/Hadithi_8.11.wav|Jaribu la kwanza lilikuwa kuvuka bwawa la Ngweo, ambalo lilikuwa na mamba wengi.
+Audio_by_sentence/Hadithi_9/Hadithi_9.1.wav|Katika mji wa Kigangwa, kulikuwa na msichana mdogo aliyeitwa Njeri.
+Audio_by_sentence/Hadithi_2/Hadithi_2.26.wav|Kwa msaada wa vitabu na ramani hizo, Mwaya alijifunza sanaa ya uchoraji na kuwa mchoraji maarufu kama Dr. Shukuru Kawambwa.
+Audio_by_sentence/Hadithi_8/Hadithi_8.23.wav|Taswira zake nzuri zilivutia watu wengi na kijiji cha Nywele kilipata umaarufu mkubwa.
+Audio_by_sentence/Hadithi_4/Hadithi_4.19.wav|Chwesa alimsikiliza kwa makini Mzee Njwi, ambaye aliendelea kusema, Kuna hazina iliyofichwa hapa msituni, lakini ili kuipata, lazima uonyeshe hekima, ujasiri na upendo.
+Audio_by_sentence/Hadithi_6/Hadithi_6.21.wav|Alimweleza kuwa hazina hiyo ilikuwa na uwezo wa kumpa nguvu na ujuzi wa ajabu wa kuchora, lakini ilihitaji kupitia majaribu matatu: hekima, ujasiri, na upendo.
+Audio_by_sentence/Hadithi_9/Hadithi_9.28.wav|Hadithi ya Njeri iliwafundisha wakazi wa Kigangwa umuhimu wa hekima, ujasiri, na upendo.
+Audio_by_sentence/Hadithi_10/Hadithi_10.17.wav|Jaribu la pili lilikuwa kupanda mlima mrefu wa Ndwari, ambapo walihitaji ujasiri mkubwa kupanda.
+Audio_by_sentence/Hadithi_3/Hadithi_3.16.wav|Walijipanga vizuri na kuanza safari yao ndefu kupitia milima na mabonde.
+Audio_by_sentence/Hadithi_4/Hadithi_4.1.wav|Katika kijiji cha Ngalawa, kulikuwa na msitu mkubwa uliotambulika kama Msitu wa Ngwambo.
+Audio_by_sentence/Hadithi_8/Hadithi_8.21.wav|Juma alirudi kijijini Nywele na kuwaeleza wakazi wa kijiji kuhusu safari yao ya ajabu.
+Audio_by_sentence/Hadithi_1/Hadithi 1.20.wav|Mbwiga alikumbuka maneno ya Babu Chweka kuhusu heshima na kupenda asili.
+Audio_by_sentence/Hadithi_2/Hadithi_2.17.wav|Jaribu la pili lilikuwa ni kupanda mlima mrefu wa Ndwari, ambapo walihitaji ujasiri mkubwa kupanda.
+Audio_by_sentence/Hadithi_10/Hadithi_10.26.wav|Kwa msaada wa vitabu hivyo, Chacha alijifunza mbinu bora za mazoezi na lishe kwa kuwa mwanariadha maarufu kama Mheshimiwa Zwima.
+Audio_by_sentence/Hadithi_8/Hadithi_8.12.wav|Juma alitengeneza mtumbwi wa kutumia mbao na kuwasaidia kuvuka bwawa hilo bila kujeruhiwa.
+Audio_by_sentence/Hadithi_6/Hadithi_6.22.wav|Safari ilianza kwa Twaibu kuongozwa hadi kwenye mto wa Ndika.
+Audio_by_sentence/Hadithi_8/Hadithi_8.4.wav|Aliambatana na mbwa wake mwaminifu, Mbweha, na rafiki yake wa karibu, Mbwiga.
+Audio_by_sentence/Hadithi_6/Hadithi_6.3.wav|Kila siku, alitumia muda wake mchana kuchora picha za mandhari ya kijiji chao na wanyama waliokaa karibu na bwawa la Njiwa.
+Audio_by_sentence/Hadithi_1/Hadithi 1.27.wav|Hadithi ya Mbwiga iliwafundisha wakazi wa Kigangwa umuhimu wa hekima, ujasiri, na upendo.
+Audio_by_sentence/Hadithi_6/Hadithi_6.19.wav|Lakini kuna jambo unatakiwa kujifunza.
+Audio_by_sentence/Hadithi_6/Hadithi_6.24.wav|Twaibu alitakiwa kuvuka mto huu kwa kutumia hekima.
+Audio_by_sentence/Hadithi_8/Hadithi_8.3.wav|Siku moja, Juma aliamua kwenda ziwa la Ngwea, ambalo lilikuwa likijulikana kwa kuwa na hazina ya dhahabu iliyofichwa.
+Audio_by_sentence/Hadithi_9/Hadithi_9.16.wav|Njeri alitengeneza mtumbwi kwa kutumia mbao na kuwasaidia kuvuka mto huo bila kujeruhiwa.
+Audio_by_sentence/Hadithi_2/Hadithi_2.8.wav|Mbinwa alicheka na kusema, Msitu huu ni hatari, lakini tutafanikiwa.
+Audio_by_sentence/Hadithi_6/Hadithi_6.2.wav|Twaibu alikuwa na ndoto kubwa ya kuwa mchoraji maarufu.
+Audio_by_sentence/Hadithi_9/Hadithi_9.17.wav|Jaribu la pili lilikuwa ni kupanda mlima mrefu wa Ndwari, ambao walihitaji ujasiri mkubwa kupanda.
+Audio_by_sentence/Hadithi_8/Hadithi_8.13.wav|Jaribu la pili lilikuwa kupanda mlima mrefu wa Ndwari, ambapo walihitaji ujasiri mkubwa kupanda.
+Audio_by_sentence/Hadithi_5/Hadithi_5.12.wav|Shweta aliangalia na kumwambia, Ninaweza kukusaidia kutafuta jibu hilo.
+Audio_by_sentence/Hadithi_10/Hadithi_10.3.wav|Siku moja, aliamua kwenda kwa Mheshimiwa Zwima kujifunza zaidi kuhusu siri za mafanikio yake.
+Audio_by_sentence/Hadithi_6/Hadithi_6.30.wav|Walifanikiwa kufika kileleni bila matatizo makubwa.
+Audio_by_sentence/Hadithi_4/Hadithi_4.24.wav|Kwanza, utapita kwenye kijito cha Shweko, ambapo utahitaji kutumia hekima yako kuweza kuvuka.
+Audio_by_sentence/Hadithi_8/Hadithi_8.22.wav|Kwa msaada wa dhahabu na vitabu hivyo, Juma aliweza kuboresha maisha ya wakazi wa kijiji chake na kuwa maarufu kama Mzee Zweka.
+Audio_by_sentence/Hadithi_6/Hadithi_6.7.wav|Alimchukua mbwa wake wa mwituni, Bobi, ambaye alikuwa rafiki wake wa karibu, na wakaingia msituni.
+Audio_by_sentence/Hadithi_4/Hadithi_4.38.wav|Ghafla, ardhi ilitetemeka na mti ukafunguka na kufungua sanduku la hazina.
+Audio_by_sentence/Hadithi_10/Hadithi_10.16.wav|Chacha alitengeneza mtumbwi kwa kutumia mbao na kuwasaidia kuvuka mto huo bila kujeruhiwa.
+Audio_by_sentence/Hadithi_2/Hadithi_2.15.wav|Jaribu la kwanza lilikuwa ni kuvuka mto wa Ngweo, ambao ulikuwa na mamba wengi.
+Audio_by_sentence/Hadithi_8/Hadithi_8.26.wav|Na hivyo ndivyo kijiji cha Nywele kilivyoendelea kuishi kwa upendo, mshikamano, na mafanikio, kizazi baada ya kizazi.
+Audio_by_sentence/Hadithi_5/Hadithi_5.22.wav|Chwema alikumbuka mafunzo ya zamani kuhusu kupanda milima kwa tahadhari.
+Audio_by_sentence/Hadithi_4/Hadithi_4.37.wav|Alikumbatia mti na kusema, ninaamini katika upendo na ushirikiano.
+Audio_by_sentence/Hadithi_4/Hadithi_4.43.wav|Kila mtu alijifunza kuwa na nia nzuri na kusaidiana ili kufanikisha maendeleo yao.
+Audio_by_sentence/Hadithi_2/Hadithi_2.25.wav|Mwaya alirudi kijijini na kuwaeleza wakazi wa Mji wa Mtwera kuhusu safari yao ya ajabu.
+Audio_by_sentence/Hadithi_9/Hadithi_9.6.wav|Hakuna kitu kizuri kama maji safi na salama, alisema Mama Mampwose.
+Audio_by_sentence/Hadithi_1/Hadithi 1.18.wav|Jaribu la mwisho lilikuwa ni kwenye bonde la Ndwara, ambapo kulikuwa na mti mkubwa wa Ndwele.
+Audio_by_sentence/Hadithi_5/Hadithi_5.35.wav|Kijiji cha Njawa kilistawi na kuwa na amani tele, huku watu wake wakiishi kwa umoja na ushirikiano katika kila jambo.
+Audio_by_sentence/Hadithi_9/Hadithi_9.7.wav|Waliendelea na safari yao hadi walipofika msitu wa Ngwala, ambao ulijulikana kwa wanyama wakali kama mbweha na mbwiga.
+Audio_by_sentence/Hadithi_4/Hadithi_4.30.wav|Baada ya kuvuka kijito, walielekea kwenye mteremko wa Chwira.
+Audio_by_sentence/Hadithi_9/Hadithi_9.5.wav|Walipoanza safari yao, walipita kwenye shamba la Mama Mampwose, ambaye aliwakaribisha na kuwapa maji ya kunywa kutoka bwawa Ndwele.
+Audio_by_sentence/Hadithi_3/Hadithi_3.14.wav|Mfalme Ndugu aliangalia uso wa mtawa na kuhisi amani, akakubali mpango huo bila kujua kwamba alikuwa amechezewa akili na mchawi mbaya.
+Audio_by_sentence/Hadithi_6/Hadithi_6.28.wav|Ilikuwa lazima kutumia ujasiri wake kupanda mlima huo.
+Audio_by_sentence/Hadithi_9/Hadithi_9.2.wav|Njeri alikuwa na ndoto kubwa ya kuwa mwanasayansi maarufu kama Mheshimiwa Zwima, alifanya kazi katika kituo cha utafiti karibu na Ziwa Victoria katika Mkoa wa Mwanza.
+Audio_by_sentence/Hadithi_6/Hadithi_6.33.wav|Ili kupata hazina, Twaibu alihitajika kuonyesha upendo wa kweli kwa mazingira na wanyama.
+Audio_by_sentence/Hadithi_10/Hadithi_10.20.wav|Hapa, walihitaji kuonyesha upendo wa kweli.
+Audio_by_sentence/Hadithi_6/Hadithi_6.35.wav|Mara moja, maji ya kijito yalibadilika rangi na kuanza kung'aa, na hazina ilijitokeza kutoka chini ya maji.
+Audio_by_sentence/Hadithi_2/Hadithi_2.4.wav|Alifuatana na mbwa wake wa mwituni, Mbweha, na rafiki yake wa karibu, Mbwiga.
+Audio_by_sentence/Hadithi_4/Hadithi_4.10.wav|Walitembea kwa muda mrefu hadi wakafika kwenye kijito kidogo kilichokuwa na maji safi.
+Audio_by_sentence/Hadithi_5/Hadithi_5.19.wav|Baada ya kuvuka kijito, waliendelea na safari yao hadi walipofika kwenye mlima Chwira.
+Audio_by_sentence/Hadithi_3/Hadithi_3.2.wav|Kijiji hiki kilikuwa na hadithi nyingi za ajabu na watu wake walikuwa na umoja sana.
+Audio_by_sentence/Hadithi_8/Hadithi_8.14.wav|Mbigwa alishawishi marafiki zake kuwa na moyo thabiti na walipanda mlima huo hadi kilele chake.
+Audio_by_sentence/Hadithi_10/Hadithi_10.12.wav|Chacha na Mbwiga waliamua kuendelea mbele licha ya onyo hilo.
+Audio_by_sentence/Hadithi_1/Hadithi 1.21.wav|Alikumbatia mti huo na kusema, ninaamini katika upendo na mshikamano.
+Audio_by_sentence/Hadithi_1/Hadithi 1.29.wav|Na hivyo ndivyo kijiji cha Kigangwa kilivyoendelea kuishi na upendo, mshikamano, na mafanikio, kizazi baada ya kizazi.
+Audio_by_sentence/Hadithi_9/Hadithi_9.10.wav|Aliwaonya, Ungwini wa msitu huu unahitaji ujasiri mkubwa.
+Audio_by_sentence/Hadithi_1/Hadithi 1.16.wav|Jaribu la pili lilikuwa ni kupanda mlima mrefu Ndwari, ambapo walihitaji ujasiri mkubwa kupanda.
+Audio_by_sentence/Hadithi_2/Hadithi_2.27.wav|Taswira zake nzuri zilivutia watu wengi na Mji wa Mtwera ulipata umaarufu mkubwa.
+Audio_by_sentence/Hadithi_4/Hadithi_4.2.wav|Msitu huo ulikuwa na miti mikubwa, vichaka vingi na wanyama wa aina mbalimbali.
+Audio_by_sentence/Hadithi_5/Hadithi_5.18.wav|Alitumia matawi na magogo kutengeneza daraja la muda na wote wakavuka salama.
+Audio_by_sentence/Hadithi_6/Hadithi_6.1.wav|Kijiji cha Nzwala, kilichozungukwa na milima ya Njira, kulikuwa na msichana mdogo aliyeitwa Twaibu.
+Audio_by_sentence/Hadithi_5/Hadithi_5.28.wav|Shweta alikumbuka maneno ya wazee wa kijiji kuhusu heshima na kupenda mazingira.
+Audio_by_sentence/Hadithi_4/Hadithi_4.36.wav|Chwesa alikumbuka maneno ya Mzee Njwi kuhusu upendo wa kweli.
+Audio_by_sentence/Hadithi_6/Hadithi_6.34.wav|Alikusanya maua kwa upole na kuyatoa kama sadaka kwa maji ya kijito.
+Audio_by_sentence/Hadithi_1/Hadithi 1.3.wav|Siku moja, aliamua kwenda kwa Dokta Shukuru Kawambwa, mchora ramani maarufu ambaye aliishi karibu na pwani ya Ziwa Victoria katika Mkoa wa Mwanza.
+Audio_by_sentence/Hadithi_4/Hadithi_4.23.wav|Kila sehemu ina jaribu lake.
+Audio_by_sentence/Hadithi_5/Hadithi_5.36.wav|Shweta na Chwema walikuwa mashujaa wa kijiji na waliheshimiwa kwa ujasiri wao na moyo wa upendo.
+Audio_by_sentence/Hadithi_3/Hadithi_3.3.wav|Mzee Juma, aliyekuwa mzee wa kijiji, alipenda kuwasimulia vijana hadithi za zamani zilizojaa hekima na mafunzo.
+Audio_by_sentence/Hadithi_4/Hadithi_4.35.wav|Mti huu ulikuwa na maua mazuri na harufu nzuri.
+Audio_by_sentence/Hadithi_3/Hadithi_3.10.wav|Siku moja, Mchawi Chweko aliamua kumtembelea Mfalme Ndugu akiwa na mpango mbaya.
+Audio_by_sentence/Hadithi_2/Hadithi_2.23.wav|Ghafla, mti ulianza kung'aa na kutoa hazina iliyokuwa imefichwa.
+Audio_by_sentence/Hadithi_3/Hadithi_3.9.wav|Mchawi huyu alikuwa na uwezo wa kubadilisha sura na kuonekana kama mtu yeyote.
+Audio_by_sentence/Hadithi_1/Hadithi 1.26.wav|Taswira zake nzuri zilivutia watu wengi na mji wa Kigangwa ulipata umaarufu mkubwa.
+Audio_by_sentence/Hadithi_5/Hadithi_5.7.wav|Alikuwa amekuja kijijini Njawa kutafuta jibu la fumbo ambalo lilikuwa linamsumbua kwa muda mrefu.
+Audio_by_sentence/Hadithi_6/Hadithi_6.27.wav|Majaribio ya pili yalikuwa katika mlima wa Ndiko, ambapo kulikuwa na mawe mengi na maporomoko ya maji.
+Audio_by_sentence/Hadithi_6/Hadithi_6.12.wav|Alikuwa ni mzee aliyetambulika kama Mzee Nyweta, ambaye aliishi msituni kwa miaka mingi.
+Audio_by_sentence/Hadithi_10/Hadithi_10.11.wav|Watu wengi wamejaribu kupita lakini wameshindwa.
+Audio_by_sentence/Hadithi_2/Hadithi_2.11.wav|Watu wengi wamejaribu kupita lakini wameshindwa.
+Audio_by_sentence/Hadithi_8/Hadithi_8.9.wav|Walipofika ndani ya msitu, walikutana na Mzee Kishenjwe, mzee mwenye hekima nyingi aliyekuwa akiishi karibu na kijito cha Ndwele.
+Audio_by_sentence/Hadithi_1/Hadithi 1.13.wav|Babu Chweka aliwaambia, Ili kufika kwa Dokta Shukuru Kawambwa, lazima mpitie majaribu matatu: jaribu la hekima, jaribu la ujasiri, na jaribu la upendo.
+Audio_by_sentence/Hadithi_4/Hadithi_4.34.wav|Mwisho, walifika kwenye mti mkubwa wa Ndwele.
+Audio_by_sentence/Hadithi_10/Hadithi_10.25.wav|Chacha alirudi kijijini na kuwaeleza wakazi wa Mji wa Mtwera kuhusu safari yao ya ajabu.
+Audio_by_sentence/Hadithi_1/Hadithi 1.2.wav|Mbwiga alikuwa na ndoto kubwa ya kuwa mchora ramani maarufu kama Mheshimiwa Zwima.
+Audio_by_sentence/Hadithi_5/Hadithi_5.27.wav|Hapo, walihitaji kuonyesha upendo wa kweli.
+Audio_by_sentence/Hadithi_5/Hadithi_5.8.wav|Shweta alimsalimia kwa upole na kuuliza, Habari yako, Chwema? Ni jambo gani linalokusumbua?
+Audio_by_sentence/Hadithi_1/Hadithi 1.24.wav|Mbwiga alirudi kijijini na kuwaeleza wakazi wa mji wa Kigangwa kuhusu safari yao ya ajabu.
+Audio_by_sentence/Hadithi_2/Hadithi_2.1.wav|Katika kijiji cha Mji wa Mtwera, kulikuwa na msichana mdogo aliyeitwa Mwaya.
+Audio_by_sentence/Hadithi_4/Hadithi_4.4.wav|Miongoni mwao, kulikuwa na kijana shupavu aliyeitwa Chwesa.
+Audio_by_sentence/Hadithi_10/Hadithi_10.10.wav|Aliwaonya, Ugwini wa msitu huu unahitaji ujasiri mkubwa.
+Audio_by_sentence/Hadithi_6/Hadithi_6.17.wav|Mzee Nyweta alitabasamu na kusema, Ninaona moyo wako wenye shauku na ndoto kubwa.
+Audio_by_sentence/Hadithi_1/Hadithi 1.19.wav|Hapo, walihitaji kuonyesha upendo wa kweli.
+Audio_by_sentence/Hadithi_9/Hadithi_9.9.wav|Walipofika katikati ya msitu, walikutana na Mzee Kishenjwe ambaye alikuwa akijulikana kwa hekima zake nyingi.
+Audio_by_sentence/Hadithi_10/Hadithi_10.23.wav|Ghafla, mti ulianza kung'aa na kutoa hazina iliyokuwa imefichwa.
+Audio_by_sentence/Hadithi_9/Hadithi_9.25.wav|Njeri alirudi kijijini na kuwaeleza wakazi wa Kigangwa kuhusu safari yao ya ajabu.
+Audio_by_sentence/Hadithi_4/Hadithi_4.7.wav|Walijitayarisha vizuri kwa safari hiyo ndefu.
+Audio_by_sentence/Hadithi_2/Hadithi_2.22.wav|Alikumbatia mti huo na kusema, Ninaamini katika upendo na mshikamano.
+Audio_by_sentence/Tunashindwa_na_nini/Tunashindwa_na_nini_3.wav|Katika mechi walihamasishana kwa kusema 'Nani anaweza kutushinda sasa?'
+Audio_by_sentence/Hadithi_8/Hadithi_8.19.wav|Ghafla, mti ulianza kung'aa na kutoa hazina iliyokuwa imefichwa.
+Audio_by_sentence/Hadithi_4/Hadithi_4.31.wav|Mteremko huo ulikuwa mwinuko na wenye mawe mengi.
+Audio_by_sentence/Hadithi_9/Hadithi_9.12.wav|Mbwiga na Njeri waliamua kuendelea mbele licha ya onyo hilo.
+Audio_by_sentence/Hadithi_4/Hadithi_4.13.wav|Alisimama na kumwangalia Mbwa Ndoa, ambaye alionekana kuchanganyikiwa.
+Audio_by_sentence/Hadithi_1/Hadithi 1.10.wav|Aliwaonya, Ungwini wa msitu huu unahitaji ujasiri mkubwa. Watu wengi walijaribu kupita lakini wameshindwa.
+Audio_by_sentence/Hadithi_10/Hadithi_10.6.wav|Hakuna kitu kizuri kama maji safi na salama, alisema Mzee Kishenjwe.
+Audio_by_sentence/Hadithi_2/Hadithi_2.29.wav|Waliishi kwa amani na furaha, wakiendelea kuheshimu na kuhifadhi siri za msitu wa Ngwala.
+Audio_by_sentence/Hadithi_2/Hadithi_2.12.wav|Mbwiga na Mwaya waliamua kuendelea mbele licha ya onyo hilo.
+Audio_by_sentence/Hadithi_1/Hadithi 1.14.wav|Jaribu la kwanza lilikuwa ni kuvuka mto wa Ngweno, ambao ulikuwa na mamba wengi.
+Audio_by_sentence/Hadithi_2/Hadithi_2.21.wav|Mwaya alikumbuka maneno ya Babu Chweka kuhusu kuheshimu na kupenda asili.
+Audio_by_sentence/Hadithi_10/Hadithi_10.27.wav|Mafanikio yake yalivutia watu wengi na Mji wa Mtwera ulipata umaarufu mkubwa.
+Audio_by_sentence/Hadithi_8/Hadithi_8.17.wav|Juma alikumbuka maneno ya Mzee Kishenjwe kuhusu kuheshimu na kupenda asili.
+Audio_by_sentence/Hadithi_5/Hadithi_5.6.wav|Chwema alikuwa mgeni kijijini na alikuwa na hadithi nyingi za kusisimua kutoka kwenye safari zake za mbali.
+Audio_by_sentence/Hadithi_3/Hadithi_3.4.wav|Siku moja, aliwaita vijana wote wa kijiji na kuanza kusimulia hadithi moja maarufu.
+Audio_by_sentence/Hadithi_10/Hadithi_10.30.wav|Na hivyo ndivyo Mji wa Mtwera ulivyoendelea kuishi kwa upendo, mshikamano, na mafanikio, kizazi baada ya kizazi.
+Audio_by_sentence/Hadithi_8/Hadithi_8.10.wav|Mzee Kishenjwe aliwaambia, Ili kufanikiwa  kwenye ziwa la Ngwea na kupata dhahabu, lazima mpitie majaribu matatu: jaribu la hekima, jaribu la ujasiri, na jaribu la upendo.
+Audio_by_sentence/Hadithi_5/Hadithi_5.13.wav|Tunaweza kuanza safari yetu sasa hivi?
+Audio_by_sentence/Hadithi_6/Hadithi_6.36.wav|Ndani ya sanduku la hazina, kulikuwa na brashi ya uchoraji na rangi za ajabu.
+Audio_by_sentence/Hadithi_6/Hadithi_6.14.wav|Nimekuwa nakusubiri.
+Audio_by_sentence/Hadithi_2/Hadithi_2.14.wav|Babu Chweka aliwaambia, Ili kufika kwa Dr. Shukuru Kawambwa, lazima mpitie majaribu matatu: jaribu la hekima, jaribu la ujasiri, na jaribu la upendo.
+Audio_by_sentence/Hadithi_9/Hadithi_9.18.wav|Mbwiga aliwashawishi marafiki zake kuwa na moyo thabiti na walipanda mlima huo hadi kilele chake.
+Audio_by_sentence/Hadithi_5/Hadithi_5.21.wav|Hapo, walihitaji kutumia hekima yao.
+Audio_by_sentence/Hadithi_6/Hadithi_6.25.wav|Aliangalia huku na kule na kugundua kwamba kwa kutumia majani makubwa kama boti ndogo, angeweza kuvuka salama.
+Audio_by_sentence/Hadithi_8/Hadithi_8.2.wav|Juma alikuwa na ndoto ya kuwa mchimbaji wa dhahabu maarufu kama Mzee Zweka, ambaye aliishi katika mji wa Kigangwa.
+Audio_by_sentence/Hadithi_5/Hadithi_5.32.wav|Kitabu hicho kilikuwa na mafundisho mengi kuhusu maisha na umuhimu wa ujasiri, hekima na upendo.
+Audio_by_sentence/Hadithi_4/Hadithi_4.39.wav|Chwesa alifungua sanduku hilo na kukuta hazina ya vito vya thamani na mikufu ya dhahabu.
+Audio_by_sentence/Hadithi_9/Hadithi_9.4.wav|Aliandamana na mbwa wake mwaminifu, Mbwa Twika, na rafiki yake wa karibu, Mbwiga.
+Audio_by_sentence/Hadithi_4/Hadithi_4.25.wav|Pili, utapita kwenye mteremko wa Chwira, ambapo utahitaji ujasiri wako kupanda.
+Audio_by_sentence/Hadithi_10/Hadithi_10.8.wav|Mbwiga alicheka na kusema, Msitu huu ni hatari, lakini tutafanikiwa.
+Audio_by_sentence/Hadithi_4/Hadithi_4.20.wav|Kwa msaada wa mbwa wako mwaminifu, utaweza kufanikisha lengo lako.
+Audio_by_sentence/Hadithi_6/Hadithi_6.37.wav|Twaibu alijua kuwa sasa ana uwezo wa kuchora kwa ufanisi zaidi.
+Audio_by_sentence/Hadithi_6/Hadithi_6.8.wav|Walipoingia zaidi ndani ya msitu, Twaibu aliona mti mkubwa wa shoka, unaong'aa kwa rangi za ajabu.
+Audio_by_sentence/Hadithi_2/Hadithi_2.7.wav|Waliendelea na safari yao hadi walipofika kwenye msitu wa Ngwala, ambao ulijulikana kwa kuwa na wanyama wakali kama mbweha na mbwiga.
+Audio_by_sentence/Hadithi_4/Hadithi_4.40.wav|Lakini zaidi ya yote, alikuta kijitabu kidogo chenye hekima za maisha.
+Audio_by_sentence/Tunashindwa_na_nini/Tunashindwa_na_nini_1.wav|Tunashindwa na nini?
+Audio_by_sentence/Hadithi_4/Hadithi_4.21.wav|Chwesa alimuuliza, nawezaje kupata hazina hiyo, Mzee Njwi?
+Audio_by_sentence/Hadithi_4/Hadithi_4.22.wav|Mzee Njwi alitabasamu na kujibu, Utahitaji kupita kwenye sehemu tatu maalum za msitu huu.
+Audio_by_sentence/Hadithi_10/Hadithi_10.22.wav|Alikumbatia mti huo na kusema, Ninaamini katika upendo na mshikamano.
+Audio_by_sentence/Hadithi_8/Hadithi_8.24.wav|Hadithi ya Juma iliwafundisha wakazi wa Nywele umuhimu wa hekima, ujasiri, na upendo.
+Audio_by_sentence/Hadithi_3/Hadithi_3.12.wav|Wakati alipokutana na mfalme, alimwambia, 'Mfalme wangu, nimekuja na habari njema.
+Audio_by_sentence/Hadithi_2/Hadithi_2.20.wav|Hapa, walihitaji kuonyesha upendo wa kweli.
+Audio_by_sentence/Hadithi_2/Hadithi_2.19.wav|Jaribu la mwisho lilikuwa ni kwenye bonde la Ndwara, ambapo kulikuwa na mti mkubwa wa Ndwele.
+Audio_by_sentence/Hadithi_4/Hadithi_4.12.wav|Wakati huo, Chwesa aliona kivuli kikubwa kikipita karibu yake.
+Audio_by_sentence/Hadithi_10/Hadithi_10.28.wav|Hadithi ya Chacha iliwafundisha wakazi wa Mji wa Mtwera umuhimu wa hekima, ujasiri, na upendo.
+Audio_by_sentence/Hadithi_5/Hadithi_5.24.wav|Walipanda mlima huo kwa uangalifu na kufanikiwa kufika kileleni.
+Audio_by_sentence/Hadithi_1/Hadithi 1.23.wav|Ndani ya hazina hiyo, walikuta vitabu vya sanaa na ramani za ajabu.
+Audio_by_sentence/Hadithi_9/Hadithi_9.3.wav|Siku moja, aliamua kwenda kwa Mheshimiwa Zwima kujifunza zaidi kuhusu sayansi na teknolojia.
+Audio_by_sentence/Hadithi_5/Hadithi_5.31.wav|Walifungua sanduku hilo na kukuta vito vya thamani na kitabu kidogo cha hekima.
+Audio_by_sentence/Hadithi_5/Hadithi_5.26.wav|Mti huu ulikuwa maarufu kwa kuwa na maua yanayotoa harufu nzuri.
+Audio_by_sentence/Hadithi_4/Hadithi_4.5.wav|Chwesa alikuwa na shauku kubwa ya kugundua siri za msitu huu.
+Audio_by_sentence/Hadithi_6/Hadithi_6.26.wav|Aliweka majani pamoja na kufanikiwa kuvuka mto bila kujeruhiwa.
+Audio_by_sentence/Hadithi_4/Hadithi_4.27.wav|Chwesa alikubali changamoto hizo na kuelekea kijito cha Shweko.
+Audio_by_sentence/Hadithi_5/Hadithi_5.14.wav|Walielekea msituni wakiwa na Mbweha kama mlinzi wao.
+Audio_by_sentence/Hadithi_9/Hadithi_9.26.wav|Kwa msaada wa vitabu hivyo, Njeri alijifunza sayansi na teknolojia na kuwa mwanasayansi maarufu kama Mheshimiwa Zwima.
+Audio_by_sentence/Hadithi_10/Hadithi_10.29.wav|Waliishi kwa amani na furaha, wakiendelea kuheshimu na kuhifadhi siri za msitu wa Ngwala.
+Audio_by_sentence/Hadithi_6/Hadithi_6.42.wav|Kijiji kiliendelea kustawi na kuwa na amani, huku siri za msitu wa Ngwama zikiendelea kuhifadhiwa na kuheshimiwa kwa vizazi vijavyo.
+Audio_by_sentence/Hadithi_1/Hadithi 1.6.wav|Hakuna kitu kizuri kama maji safi na salama, alisema Mzee Kishenjwe.
+Audio_by_sentence/Hadithi_3/Hadithi_3.11.wav|Alifika kwenye ikulu akiwa amevaa mavazi ya mtawa na kuomba kuonana na mfalme.
+Audio_by_sentence/Hadithi_9/Hadithi_9.19.wav|Jaribu la mwisho lilikuwa ni kwenye bonde la Ndwara, ambapo kulikuwa na mti mkubwa wa Ndwele.
+Audio_by_sentence/Hadithi_4/Hadithi_4.11.wav|Walikaa hapo na kupumzika na kunywa maji.
+Audio_by_sentence/Hadithi_6/Hadithi_6.16.wav|Unanijua vipi, Mzee Nyweta? aliuliza kwa hofu kidogo.
+Audio_by_sentence/Hadithi_5/Hadithi_5.4.wav|Kila siku, alienda mtoni kuchota maji pamoja na rafiki yake wa karibu, Mbweha.
+Audio_by_sentence/Hadithi_5/Hadithi_5.23.wav|Aliongoza njia kwa kutumia kamba za mti na kuwaelekeza wengine jinsi ya kupanda kwa usalama.
+Audio_by_sentence/Hadithi_9/Hadithi_9.11.wav|Watu wengi wamejaribu kupita lakini wameshindwa.
+Audio_by_sentence/Hadithi_10/Hadithi_10.7.wav|Waliendelea na safari yao hadi walipofika kwenye msitu wa Ngwala, ambao ulijulikana kwa wanyama wakali kama mbweha na mbwiga.
+Audio_by_sentence/Hadithi_10/Hadithi_10.2.wav|Chacha alikuwa na ndoto kubwa ya kuwa mwanariadha maarufu kama Mheshimiwa Zwima, aliyewahi kushinda medali nyingi katika mashindano ya kimataifa.
+Audio_by_sentence/Hadithi_9/Hadithi_9.13.wav|Njiani, walikutana na Babu Chweka, mzee mwenye hekima aliyekuwa akiishi katika kijiji kidogo cha Mtwera.
+Audio_by_sentence/Hadithi_4/Hadithi_4.18.wav|Lakini kumbuka, kila hatua unayochukua ina maana kubwa.
+Audio_by_sentence/Hadithi_4/Hadithi_4.9.wav|Lakini Chwesa hakukata tamaa, aliendelea mbele kwa ujasiri na kujiamini.
+Audio_by_sentence/Hadithi_10/Hadithi_10.15.wav|Jaribu la kwanza lilikuwa ni kuvuka mto wa Ngweo, ambao ulikuwa na mamba wengi.
+Audio_by_sentence/Hadithi_1/Hadithi 1.11.wav|Mbwiga na Mbwinwa waliamua kuendelea mbele licha ya onyo hilo.
+Audio_by_sentence/Hadithi_5/Hadithi_5.2.wav|Katika kijiji hiki, kulikuwa na binti mdogo aliyeitwa Shweta.
+Audio_by_sentence/Hadithi_4/Hadithi_4.29.wav|Alitumia hekima yake kwa kujenga daraja la muda kwa kutumia matawi ya miti na kuvuka salama.
+Audio_by_sentence/Hadithi_2/Hadithi_2.6.wav|Hakuna kitu kizuri kama maji safi na salama, alisema Mzee Kishenjwe.
+Audio_by_sentence/Hadithi_2/Hadithi_2.28.wav|Hadithi ya Mwaya iliwafundisha wakazi wa Mji wa Mtwera umuhimu wa hekima, ujasiri, na upendo.
+Audio_by_sentence/Hadithi_6/Hadithi_6.15.wav|Twaibu alishangaa jinsi huyu mzee alivyomfahamu jina lake.
+Audio_by_sentence/Hadithi_3/Hadithi_3.8.wav|Hata hivyo, alikuwepo mchawi mmoja mbaya aliyekuwa akiitwa Mchawi Chweko.
+Audio_by_sentence/Tunashindwa_na_nini/Tunashindwa_na_nini_2.wav|Timu ya mchezo ya kijijini iliyodharauliwa sana hatimaye ilifika fainali za kitaifa.
+Audio_by_sentence/Hadithi_5/Hadithi_5.3.wav|Shweta alikuwa mwerevu na mwenye hamu kubwa ya kujifunza mambo mapya.
+Audio_by_sentence/Hadithi_9/Hadithi_9.24.wav|Ndani ya hazina hiyo, walikuta vitabu vya sayansi na teknolojia.
+Audio_by_sentence/Hadithi_6/Hadithi_6.32.wav|Walifika kwenye bonde la Chemba, ambapo kulikuwa na kijito kilichozungukwa na maua mazuri yenye harufu nzuri.
