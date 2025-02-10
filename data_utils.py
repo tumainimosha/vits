@@ -1,3 +1,4 @@
+import logging
 import time
 import os
 import random
@@ -56,29 +57,37 @@ class TextAudioLoader(torch.utils.data.Dataset):
         self.lengths = lengths
 
     def get_audio_text_pair(self, audiopath_and_text):
-        # separate filename and text
-        audiopath, text = audiopath_and_text[0], audiopath_and_text[1]
-        text = self.get_text(text)
-        spec, wav = self.get_audio(audiopath)
-        return (text, spec, wav)
+        try:
+            # separate filename and text
+            audiopath, text = audiopath_and_text[0], audiopath_and_text[1]
+            text = self.get_text(text)
+            spec, wav = self.get_audio(audiopath)
+            return (text, spec, wav)
+        except Exception as e:
+            logging.error(f"Error loading {audiopath_and_text}: {e}")
+            return None, None, None
 
     def get_audio(self, filename):
-        audio, sampling_rate = load_wav_to_torch(filename)
-        if sampling_rate != self.sampling_rate:
-            raise ValueError("{} {} SR doesn't match target {} SR".format(
-                sampling_rate, self.sampling_rate))
-        audio_norm = audio / self.max_wav_value
-        audio_norm = audio_norm.unsqueeze(0)
-        spec_filename = filename.replace(".wav", ".spec.pt")
-        if os.path.exists(spec_filename):
-            spec = torch.load(spec_filename)
-        else:
-            spec = spectrogram_torch(audio_norm, self.filter_length,
-                self.sampling_rate, self.hop_length, self.win_length,
-                center=False)
-            spec = torch.squeeze(spec, 0)
-            torch.save(spec, spec_filename)
-        return spec, audio_norm
+        try:
+            audio, sampling_rate = load_wav_to_torch(filename)
+            if sampling_rate != self.sampling_rate:
+                raise ValueError("{} {} SR doesn't match target {} SR".format(
+                    sampling_rate, self.sampling_rate))
+            audio_norm = audio / self.max_wav_value
+            audio_norm = audio_norm.unsqueeze(0)
+            spec_filename = filename.replace(".wav", ".spec.pt")
+            if os.path.exists(spec_filename):
+                spec = torch.load(spec_filename)
+            else:
+                spec = spectrogram_torch(audio_norm, self.filter_length,
+                    self.sampling_rate, self.hop_length, self.win_length,
+                    center=False)
+                spec = torch.squeeze(spec, 0)
+                torch.save(spec, spec_filename)
+            return spec, audio_norm
+        except Exception as e:
+            logging.error(f"Error loading {filename}: {e}")
+            return None, None
 
     def get_text(self, text):
         if self.cleaned_text:
@@ -109,6 +118,9 @@ class TextAudioCollate():
         ------
         batch: [text_normalized, spec_normalized, wav_normalized]
         """
+         # Filter out None values
+        batch = [x for x in batch if x is not None and x[0] is not None and x[1] is not None and x[2] is not None]
+
         # Right zero-pad all one-hot text sequences to max input length
         _, ids_sorted_decreasing = torch.sort(
             torch.LongTensor([x[1].size(1) for x in batch]),

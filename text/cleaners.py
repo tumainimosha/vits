@@ -123,6 +123,8 @@ def english_cleaners3(text):
     ]
 
     phonemes = phonemizer(text)
+    # remove None from phonemes, to handle TypeError: 'NoneType' object is not iterable
+    phonemes = [ph for ph in phonemes if ph]
     phonemes = "# #".join(["#".join(phn) for phn in phonemes])
     return phonemes
 
